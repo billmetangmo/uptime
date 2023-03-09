@@ -4,18 +4,20 @@
     "url": "https://www.the-dow.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/www.the-dow.tech.ico",
     "slug": "the-dow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 322,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
-    "dailyMinutesDown": {}
+    "time": 949,
+    "timeDay": 2958,
+    "timeWeek": 949,
+    "timeMonth": 949,
+    "timeYear": 949,
+    "dailyMinutesDown": {
+      "2023-03-09": 0
+    }
   },
   {
     "name": "seatable",
