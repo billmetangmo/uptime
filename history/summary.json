@@ -4,19 +4,19 @@
     "url": "https://www.the-dow.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/www.the-dow.tech.ico",
     "slug": "the-dow",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 2958,
-    "timeWeek": 949,
-    "timeMonth": 949,
-    "timeYear": 949,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 882,
+    "timeDay": 2089,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-03-09": 0
+      "2023-03-09": 16
     }
   },
   {
