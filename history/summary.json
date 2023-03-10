@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.the-dow.tech.ico",
     "slug": "the-dow",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.80%",
     "uptimeDay": "98.91%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 882,
-    "timeDay": 2089,
-    "timeWeek": 882,
-    "timeMonth": 882,
-    "timeYear": 882,
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 851,
+    "timeDay": 2173,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2023-03-09": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 789,
-    "timeWeek": 750,
-    "timeMonth": 750,
-    "timeYear": 750,
+    "time": 755,
+    "timeDay": 793,
+    "timeWeek": 755,
+    "timeMonth": 755,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   }
 ]
